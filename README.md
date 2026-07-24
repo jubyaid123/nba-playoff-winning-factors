@@ -1,11 +1,5 @@
 # Winning the 2026 NBA Playoffs
 
-## Project Status
-
-Sprint 0 — Project setup and scope definition.
-
-No analytical results have been produced yet.
-
 ## Analytical Question
 
 Which game-level performance differences were most strongly associated with winning during the 2026 NBA Playoffs, and how did the New York Knicks perform in those areas during their playoff run?
