@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Raw and intermediate data
+data/raw/*
+!data/raw/.gitkeep
+
+data/interim/*
+!data/interim/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Local databases and exports
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.backup
+
+# Testing output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor settings
+.vscode/
+
+# macOS files
+.DS_Store

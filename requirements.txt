@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+nba_api
+jupyterlab
+matplotlib
+scipy
+statsmodels
+SQLAlchemy
+psycopg[binary]
+python-dotenv
+pytest
