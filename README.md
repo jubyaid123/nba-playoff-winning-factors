@@ -64,6 +64,8 @@ Metric definitions may be refined after the source data is evaluated.
 
 The planned primary data source is NBA.com, accessed through NBA statistics endpoints using the community-maintained `nba_api` Python package.
 
+The 2026 playoff LeagueGameLog source was successfully validated with 170 team-game records representing 85 playoff games.
+
 This is an independent, noncommercial educational project and is not affiliated with or endorsed by the National Basketball Association.
 
 Raw NBA data will not be republished as a comprehensive public database.
