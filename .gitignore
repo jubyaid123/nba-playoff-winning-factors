@@ -21,8 +21,13 @@ data/raw/*
 data/interim/*
 !data/interim/.gitkeep
 
+# Processed data
+# Ignore processed files by default, but keep final Tableau-ready datasets.
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/tableau_team_games.csv
+!data/processed/tableau_team_summary.csv
+!data/processed/tableau_winner_metrics.csv
 
 # Logs
 *.log
